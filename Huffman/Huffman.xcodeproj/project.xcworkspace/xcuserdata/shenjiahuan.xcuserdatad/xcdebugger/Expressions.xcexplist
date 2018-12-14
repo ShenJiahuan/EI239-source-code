@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "std::__1::function&lt;bool (Tree&lt;int&gt;, Tree&lt;int&gt;)&gt;::operator()(Tree&lt;int&gt;, Tree&lt;int&gt;) const:functional">
+      </ContextState>
+      <ContextState
+         contextName = "void std::__1::__sift_up&lt;std::__1::function&lt;bool (Tree&lt;int&gt;, Tree&lt;int&gt;)&gt;&amp;, std::__1::__wrap_iter&lt;Tree&lt;int&gt;*&gt; &gt;(std::__1::__wrap_iter&lt;Tree&lt;int&gt;*&gt;, std::__1::__wrap_iter&lt;Tree&lt;int&gt;*&gt;, std::__1::function&lt;bool (Tree&lt;int&gt;, Tree&lt;int&gt;)&gt;&amp;, std::__1::iterator_traits&lt;std::__1::__wrap_iter&lt;Tree&lt;int&gt;*&gt; &gt;::difference_type):algorithm">
+      </ContextState>
+      <ContextState
+         contextName = "Huffman&lt;int&gt;::Huffman(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;):Huffman.hpp">
+      </ContextState>
+      <ContextState
+         contextName = "Huffman&lt;int&gt;::Huffman(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;, std::__1::vector&lt;double, std::__1::allocator&lt;double&gt; &gt;):Huffman.hpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "a">
+            </PersistentString>
+            <PersistentString
+               value = "parent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
