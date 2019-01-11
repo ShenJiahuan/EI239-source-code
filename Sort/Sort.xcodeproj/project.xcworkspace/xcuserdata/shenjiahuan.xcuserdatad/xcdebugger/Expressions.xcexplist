@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "void insertionSort&lt;std::__1::__wrap_iter&lt;int*&gt; &gt;(std::__1::__wrap_iter&lt;int*&gt;, std::__1::__wrap_iter&lt;int*&gt;):Sort.h">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "std::__1::tuple&lt;int, int&gt; sort::quickSort&lt;std::__1::__wrap_iter&lt;int*&gt; &gt;(std::__1::__wrap_iter&lt;int*&gt;, std::__1::__wrap_iter&lt;int*&gt;):Sort.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "begin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "sort::quickSort(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, int, int):Sort.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "num">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
